@@ -1,0 +1,11 @@
+/* Write your CSS here */
+.denomination-item-btn {
+  height: 35px;
+  width: 190px;
+  color: #ffffff;
+  background-color: #382f5a;
+  border: 1px solid #c4c4c4;
+  border-radius: 5px;
+  font-size: 20px;
+  margin-top: 15px;
+}
